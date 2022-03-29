@@ -87,8 +87,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 <br>
 
 <a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&theme=noctis_minimus&layout=compact" />
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
