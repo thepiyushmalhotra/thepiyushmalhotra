@@ -50,6 +50,7 @@ technical_background:
     "Intern - Internet Of Things",
     "Intern - VLSI and FPGA Implementation",
   ]
+  
 currently_learning: ["React Native & PHP"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
