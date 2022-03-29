@@ -3,9 +3,6 @@
 </p>
 
 # Hey Everyone, I am Piyush. It's nice to meet you!🕹️
-
-<h2> 🤝 &nbsp;Let's Connect and have a chat!</h2>
-
 - 🌎 Check out my [Website](https://piyushmalhotra.netlify.app/).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/thepiyushmalhotra/).
 - 📝 I write about stuff on [Medium](https://thepiyushmalhotra.medium.com/) and [Dev.to](https://dev.to/thepiyushmalhotra).
@@ -19,6 +16,8 @@
 <p align="center">
   <img src= "https://i.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.webp">
 </p>
+
+---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
@@ -55,8 +54,8 @@ currently_learning: ["React Native & PHP"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 ```
-
-<br>
+  
+---  
   
 <h2> 🚀 &nbsp;Some Tools I Use</h2>
 <p align="left">
@@ -84,16 +83,15 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="45" height="45"/>
 </p>
 
-<br>
+---
 
+<h2> 📈 &nbsp;My 2022 GitHub History</h2>
 <a href="https://github.com/thepiyushmalhotra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&theme=noctis_minimus&layout=compact" />
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-<br>
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
