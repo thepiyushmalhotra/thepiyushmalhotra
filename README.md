@@ -90,6 +90,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 
 <h2> 📕 &nbsp;My Latest Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
+- [Hard to swallow pills every new Developer should take.](https://dev.to/thepiyushmalhotra/hard-to-swallow-pills-every-new-developer-should-take-5bfl)
+- [The Analysis Paralysis of Learning to Code...](https://dev.to/thepiyushmalhotra/the-analysis-paralysis-of-learning-to-code-9kh)
+- [The Beginner-friendly way to learn from FreeCodeCamp on YouTube.](https://dev.to/thepiyushmalhotra/the-beginner-friendly-way-to-learn-from-freecodecamp-on-youtube-37g7)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> 📈 &nbsp;My 2022 GitHub History</h2>
