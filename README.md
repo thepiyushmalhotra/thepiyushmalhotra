@@ -1,8 +1,7 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
 </p>
-
-![Piyush_banner](https://user-images.githubusercontent.com/46517096/166967542-fe3b669e-2e05-42a9-b3b9-2b4fb41617a7.png)
+<h1> Hey everyone, Nice to meet you! 🕹️ </h1>
 
 - 🌎 Check out my [Website](https://piyushmalhotra.netlify.app/).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/thepiyushmalhotra/).
