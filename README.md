@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
 </p>
 
-# Hey Everyone, I am Piyush. It's nice to meet you!🕹️
+![Piyush_banner](https://user-images.githubusercontent.com/46517096/166967542-fe3b669e-2e05-42a9-b3b9-2b4fb41617a7.png)
+
 - 🌎 Check out my [Website](https://piyushmalhotra.netlify.app/).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/thepiyushmalhotra/).
 - 📝 I write about stuff on [Medium](https://thepiyushmalhotra.medium.com/) and [Dev.to](https://dev.to/thepiyushmalhotra).
