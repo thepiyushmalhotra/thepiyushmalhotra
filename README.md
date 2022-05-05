@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
 </p>
 
-<h1>
-<p align="center">
-  Hey Everyone! Let's Connect🕹️
-</p>
- </h1>
+<h1 align="center">
+  Hey Everyone! Let's Connect and have a Chat!🕹️
+</h1>
 
 <p align="center">
 <a href="https://piyushmalhotra.netlify.app/">
