@@ -38,7 +38,6 @@
 ```yaml
 name: Piyush Malhotra
 located_in: Montreal, Quebec
-from: Jalandhar, India
 current_job: Full Stack Developer
 education:
   [
@@ -65,7 +64,7 @@ technical_background:
     "Intern - VLSI and FPGA Implementation",
   ]
   
-currently_learning: ["Docker and Kubernetes"]
+currently_learning: ["Docker, Kubernetes and React Native"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 ```
