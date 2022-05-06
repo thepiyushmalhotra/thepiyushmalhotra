@@ -1,9 +1,9 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
 
 <h1 align="center">
-  Hey Everyone! Let's Connect and have a Chat!🕹️
+  Let's Connect and have a Chat!💬
 </h1>
 
 <p align="center">
