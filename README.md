@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src= <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+  <iframe src="https://giphy.com/embed/dlMIwDQAxXn1K" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mrw-project-dlMIwDQAxXn1K">via GIPHY</a></p>
 </p>
 
 ---
