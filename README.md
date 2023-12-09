@@ -27,17 +27,13 @@
 </a>
 </p>
 
-<p align="center">
-  <iframe src="https://giphy.com/embed/dlMIwDQAxXn1K" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mrw-project-dlMIwDQAxXn1K">via GIPHY</a></p>
-</p>
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Piyush Malhotra
-located_in: Montreal, Quebec
+located_in: Calgary, Alberta
 current_job: Full Stack Developer
 education:
   [
@@ -58,14 +54,15 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Full Stack Developer"
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
     "Intern - VLSI and FPGA Implementation",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
   
@@ -98,10 +95,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </p>
 
 ---
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
